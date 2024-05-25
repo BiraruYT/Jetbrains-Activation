@@ -1,5 +1,6 @@
 # Jetbrains-Activation
-Since Jetbrains wont accept my student application (i have no idea why), i will use this. For people who are broke like me lmfao
+~~Since Jetbrains wont accept my student application (i have no idea why), i will use this. For people who are broke like me lmfao~~
+Still keeping this repo public for people who cant afford jetbrains ide's (be sure to support the creators if you can afford it)
 
 ### Text tutorial
 1. Download `jb.ps1`.
